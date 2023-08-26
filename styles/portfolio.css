@@ -122,6 +122,18 @@ main {
     margin: 130px 0;
 }
 
+.info-title {
+    color: #757575;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.info-description {
+    color: #474747;
+    font-size: 20px;
+    font-weight: 700;
+}
+
 .about-info-container {
     display: flex;
     justify-content: space-around;
@@ -129,6 +141,7 @@ main {
 
 .about-info {
     text-align: center;
+    line-height: 0;
 }
 
 /* skills related styles */
