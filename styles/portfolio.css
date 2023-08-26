@@ -158,9 +158,15 @@ main {
     gap: 70px;
 }
 
-.resume-item-title {
+.resume-column-title {
     color: #474747;
     font-size: 30px;
+    font-weight: 700;
+}
+
+.resume-item-title {
+    color: #474747;
+    font-size: 25px;
     font-weight: 700;
     margin-bottom: 10px;
 }
@@ -175,7 +181,7 @@ main {
     color: #757575;
 }
 
-.resume-container hr {
+.resume-container br {
     margin: 30px;
 }
 
@@ -197,7 +203,7 @@ footer {
     width: 50%;
 }
 
-.social-links a{
+.social-links a {
     margin-right: 25px;
 }
 
